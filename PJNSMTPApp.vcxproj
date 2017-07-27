@@ -39,6 +39,7 @@
     <ProjectGuid>{A3AED109-B29E-4A10-8C5D-DCF3E5B5A4F6}</ProjectGuid>
     <RootNamespace>PJNSMTPApp</RootNamespace>
     <Keyword>MFCProj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
